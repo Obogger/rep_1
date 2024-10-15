@@ -4,11 +4,19 @@ Answer each question here under the question.
 
 ## What is a programming language?
 
+A language you use to write computer programms
+
 ## What is a compiler?
+
+Writes a computer code to instructions that the copmuter can understand
 
 ## What is a debugger?
 
+To see computer values
+
 ## What is an IDE (Integrated Development Environment)?
+
+VScode is an IDE
 
 ## What does it mean to be a programmer?
 
