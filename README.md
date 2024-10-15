@@ -16,6 +16,8 @@ To see computer values
 
 ## What is an IDE (Integrated Development Environment)?
 
+VScode is an IDE
+
 ## What does it mean to be a programmer?
 
 ## Is C a high level programming language? Why?
