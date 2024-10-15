@@ -4,9 +4,11 @@ Answer each question here under the question.
 
 ## What is a programming language?
 
-A language you use to write computer programms.
+A language you use to write computer programms
 
 ## What is a compiler?
+
+Writes a computer code to instructions that the copmuter can understand
 
 ## What is a debugger?
 
